@@ -1,0 +1,83 @@
+[
+    {
+    
+      "page_ids": ["eQnxDJjdmLkBy3a0YPNlyqo8"],
+      "view_mode": "day",
+      "create_date_range": ["2024-08-20", "2024-09-20"],
+      "_comment": {
+        "page_ids": [
+          "eQnxDJjdmLkBy3a0YPNlyqo8",
+          "pG16KmEB843XGM9YnAyQqj7L",
+          "wORKNQ27143OabVmWjrv5EdG",
+          "pL74Y5yJPBMQdbw8VENDK0gn",
+          "0OYQ9e17wWk6rkA5vadPzGxN",
+          "zrWYl5o9KaMGEk4pR1ALyQ8G",
+          "eQnxDJjdmLkBy3a0YPNlyqo8"
+        ],
+        "create_month_range": [
+          "2024-08",
+          "2024-12"
+        ]
+      }
+    },
+    {
+      "view_mode": "day",
+      "create_date_range": ["2024-08-20", "2024-09-20"]
+    },
+    {
+      "page_ids": [
+        "0",
+        "eQnxDJjdmLkBy3a0YPNlyqo8",
+        "pG16KmEB843XGM9YnAyQqj7L",
+        "wORKNQ27143OabVmWjrv5EdG",
+        "pL74Y5yJPBMQdbw8VENDK0gn",
+        "0OYQ9e17wWk6rkA5vadPzGxN",
+        "zrWYl5o9KaMGEk4pR1ALyQ8G",
+        "eQnxDJjdmLkBy3a0YPNlyqo8"
+      ],
+      "view_mode": "day",
+      "create_date_range": ["2024-08-20", "2024-09-20"]
+    },
+    {
+      "page_ids": ["0"],
+      "view_mode": "day",
+      "create_date_range": ["2024-08-20", "2024-09-20"]
+    },
+    {
+      "page_ids": ["0"],
+      "view_mode": "month",
+      "create_date_range": ["2024-08-20", "2024-09-20"]
+    },
+    {
+      "page_ids": ["0"],
+      "view_mode": "month",
+      "create_month_range": [
+        "2024-08",
+        "2024-12"
+      ]
+    },
+    {
+      "page_ids": [
+        "0",
+        "eQnxDJjdmLkBy3a0YPNlyqo8",
+        "pG16KmEB843XGM9YnAyQqj7L",
+        "wORKNQ27143OabVmWjrv5EdG",
+        "pL74Y5yJPBMQdbw8VENDK0gn",
+        "0OYQ9e17wWk6rkA5vadPzGxN",
+        "zrWYl5o9KaMGEk4pR1ALyQ8G",
+        "eQnxDJjdmLkBy3a0YPNlyqo8"
+      ],
+      "view_mode": "month",
+      "create_month_range": [
+        "2024-08",
+        "2024-12"
+      ]
+    },
+    {
+      "view_mode": "month",
+      "create_month_range": [
+        "2024-08",
+        "2024-12"
+      ]
+    }
+  ]
